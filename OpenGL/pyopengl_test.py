@@ -39,8 +39,6 @@ own = {
     'vao':      None,
     'ebo':      None,
 	'program':  None,
-	'vertex':   None,
-	'fragment': None
 }
 
 #global instances for uniform locations
